@@ -1,1 +1,21 @@
-null
+{
+    "company_info": {
+        "company_rating": null,
+        "company_count_reviews": null,
+        "company_count_stars": null
+    },
+    "company_reviews": [
+        {
+            "review_name": null,
+            "review_date": null,
+            "review_text": null,
+            "star_count": null
+        },
+        {
+            "review_name": null,
+            "review_date": null,
+            "review_text": "Покупал здесь настольную игру Колонизаторы, вернее сказать, дополнение Купцы и Варвары. Небольшой, но приятный магазинчик, приятный персонал. Всё отлично.",
+            "star_count": 5
+        }
+    ]
+}
