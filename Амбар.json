@@ -1,0 +1,33 @@
+{
+    "company_info": {
+        "company_rating": "4,2",
+        "company_count_reviews": "13 оценок",
+        "company_count_stars": 4
+    },
+    "company_reviews": [
+        {
+            "review_name": null,
+            "review_date": null,
+            "review_text": null,
+            "star_count": null
+        },
+        {
+            "review_name": "Алексей П.",
+            "review_date": "2022-03-04T18:57:40.433Z",
+            "review_text": "Отличное место покупал там игры",
+            "star_count": 5
+        },
+        {
+            "review_name": "Александр Кострицын",
+            "review_date": "2021-02-04T05:46:06.943Z",
+            "review_text": "Магазин ля взрослых детей)))",
+            "star_count": 5
+        },
+        {
+            "review_name": "Оксана Акимова",
+            "review_date": "2020-10-28T17:10:12.507Z",
+            "review_text": "Хороший магаз",
+            "star_count": 5
+        }
+    ]
+}

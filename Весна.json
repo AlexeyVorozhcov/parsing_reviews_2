@@ -1,0 +1,33 @@
+{
+    "company_info": {
+        "company_rating": "4,2",
+        "company_count_reviews": "6 оценок",
+        "company_count_stars": 4
+    },
+    "company_reviews": [
+        {
+            "review_name": null,
+            "review_date": null,
+            "review_text": null,
+            "star_count": null
+        },
+        {
+            "review_name": "Анастасия Кальнобродская",
+            "review_date": "2022-05-29T17:17:10.622Z",
+            "review_text": "отличный магазинчик ! замечательные отзывчивые сотрудники! всем советую !!!",
+            "star_count": 5
+        },
+        {
+            "review_name": "Александр Д.",
+            "review_date": "2021-02-10T06:07:28.605Z",
+            "review_text": "Удобно расположен, большой выбор",
+            "star_count": 5
+        },
+        {
+            "review_name": "паша зубарев",
+            "review_date": "2021-11-16T14:12:37.186Z",
+            "review_text": "Игры на бу дороговато",
+            "star_count": 4
+        }
+    ]
+}

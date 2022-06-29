@@ -1,0 +1,39 @@
+{
+    "company_info": {
+        "company_rating": "4,2",
+        "company_count_reviews": "50 оценок",
+        "company_count_stars": 4
+    },
+    "company_reviews": [
+        {
+            "review_name": null,
+            "review_date": null,
+            "review_text": null,
+            "star_count": null
+        },
+        {
+            "review_name": "Dmitry Klur-Pavlov",
+            "review_date": "2022-04-15T17:32:50.418Z",
+            "review_text": "Оказывается у меня есть тут карта, которая дала скидку в 30%",
+            "star_count": 5
+        },
+        {
+            "review_name": "Раиса Федорова",
+            "review_date": "2022-04-30T17:55:58.752Z",
+            "review_text": "Хотелось бы ассортимента побольше",
+            "star_count": 3
+        },
+        {
+            "review_name": "sergey tribbiani",
+            "review_date": "2022-01-01T17:28:07.572Z",
+            "review_text": "Молодцы",
+            "star_count": 5
+        },
+        {
+            "review_name": "GTschnik",
+            "review_date": "2020-03-07T09:47:37.948Z",
+            "review_text": "Ребята общаются по делу, не навязывают.",
+            "star_count": 4
+        }
+    ]
+}

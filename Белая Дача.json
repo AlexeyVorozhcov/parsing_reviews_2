@@ -1,0 +1,63 @@
+{
+    "company_info": {
+        "company_rating": "4,4",
+        "company_count_reviews": "34 оценки",
+        "company_count_stars": 4.5
+    },
+    "company_reviews": [
+        {
+            "review_name": null,
+            "review_date": null,
+            "review_text": null,
+            "star_count": null
+        },
+        {
+            "review_name": "Дмитрий Бурыкин",
+            "review_date": "2021-12-13T10:33:48.951Z",
+            "review_text": "Второй раз хожу в магазин на Белой даче и каждый раз говорю спасибо продавцам Диане и Евгению за то что подробно,четко и объективно консультируют меня перед покупкой. Молодцы.",
+            "star_count": 5
+        },
+        {
+            "review_name": "708367 Филиппов",
+            "review_date": "2022-02-17T16:32:06.952Z",
+            "review_text": "Волшебное место :)",
+            "star_count": 5
+        },
+        {
+            "review_name": "Parzival",
+            "review_date": "2019-12-09T16:31:07.746Z",
+            "review_text": "Хороший магазин видеоигр (и не только), персонал отличный, выбор игр на консоли большой.",
+            "star_count": 5
+        },
+        {
+            "review_name": "Леонид Жуков",
+            "review_date": "2020-01-14T15:03:44.100Z",
+            "review_text": "Покупал пустые боксы под диски, они были слегка бу, игры по обычным ценам, в целом магазин неплохой",
+            "star_count": 3
+        },
+        {
+            "review_name": "александр хрущёв",
+            "review_date": "2020-03-18T15:43:39.923Z",
+            "review_text": "Найдено всё что нужно и не нужно...",
+            "star_count": 5
+        },
+        {
+            "review_name": "Давид Т.",
+            "review_date": "2020-07-23T10:20:30.863Z",
+            "review_text": "Классное место.",
+            "star_count": 5
+        },
+        {
+            "review_name": "Алексей",
+            "review_date": "2020-03-16T11:46:32.822Z",
+            "review_text": "Хороший выбор",
+            "star_count": 5
+        },
+        {
+            "review_name": "Елена Д.",
+            "review_date": "2019-05-15T11:04:35.396Z",
+            "review_text": "Хорошее  место, рекомендую",
+            "star_count": 4
+        }
+    ]
+}
