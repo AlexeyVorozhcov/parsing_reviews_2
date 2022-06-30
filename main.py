@@ -36,6 +36,7 @@ def clear_reviews(shop: str, reviews: list, date_start, date_end):
                     "date": review_date,
                     "stars": review["star_count"],
                     "text": review["review_text"],
+                    "from": "yandex",
                 }
                 result.append(clear_review)
         except Exception as e:
@@ -60,7 +61,7 @@ def get_filtered_and_cleaned_reviews_from_files_yandex(date_start="2010-01-01", 
 
 def print_review(review: dict):
     print("------")
-    print(review['date'])
+    print(review['date'], "(", review['from'], ")")
     print(review['shop'])
     print("Оценка:", review['stars'])
     print(review['text'])
